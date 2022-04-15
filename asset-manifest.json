@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/MonsterHunterWord-webApp/static/css/main.79a1a354.chunk.css",
-    "main.js": "/MonsterHunterWord-webApp/static/js/main.b5df3bcd.chunk.js",
-    "main.js.map": "/MonsterHunterWord-webApp/static/js/main.b5df3bcd.chunk.js.map",
+    "main.js": "/MonsterHunterWord-webApp/static/js/main.1ce5a384.chunk.js",
+    "main.js.map": "/MonsterHunterWord-webApp/static/js/main.1ce5a384.chunk.js.map",
     "runtime-main.js": "/MonsterHunterWord-webApp/static/js/runtime-main.0c935eaf.js",
     "runtime-main.js.map": "/MonsterHunterWord-webApp/static/js/runtime-main.0c935eaf.js.map",
     "static/css/2.0a9ec390.chunk.css": "/MonsterHunterWord-webApp/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.8e9f2bcc.chunk.js": "/MonsterHunterWord-webApp/static/js/2.8e9f2bcc.chunk.js",
-    "static/js/2.8e9f2bcc.chunk.js.map": "/MonsterHunterWord-webApp/static/js/2.8e9f2bcc.chunk.js.map",
+    "static/js/2.58f8b513.chunk.js": "/MonsterHunterWord-webApp/static/js/2.58f8b513.chunk.js",
+    "static/js/2.58f8b513.chunk.js.map": "/MonsterHunterWord-webApp/static/js/2.58f8b513.chunk.js.map",
     "static/js/3.a0cc5693.chunk.js": "/MonsterHunterWord-webApp/static/js/3.a0cc5693.chunk.js",
     "static/js/3.a0cc5693.chunk.js.map": "/MonsterHunterWord-webApp/static/js/3.a0cc5693.chunk.js.map",
     "index.html": "/MonsterHunterWord-webApp/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/MonsterHunterWord-webApp/static/css/2.0a9ec390.chunk.css.map",
     "static/css/main.79a1a354.chunk.css.map": "/MonsterHunterWord-webApp/static/css/main.79a1a354.chunk.css.map",
-    "static/js/2.8e9f2bcc.chunk.js.LICENSE.txt": "/MonsterHunterWord-webApp/static/js/2.8e9f2bcc.chunk.js.LICENSE.txt",
+    "static/js/2.58f8b513.chunk.js.LICENSE.txt": "/MonsterHunterWord-webApp/static/js/2.58f8b513.chunk.js.LICENSE.txt",
     "static/media/1_star.svg": "/MonsterHunterWord-webApp/static/media/1_star.dbc300dc.svg",
     "static/media/2_star.svg": "/MonsterHunterWord-webApp/static/media/2_star.9c1938a3.svg",
     "static/media/3_star.svg": "/MonsterHunterWord-webApp/static/media/3_star.5df5d138.svg",
@@ -33,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.0c935eaf.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.8e9f2bcc.chunk.js",
+    "static/js/2.58f8b513.chunk.js",
     "static/css/main.79a1a354.chunk.css",
-    "static/js/main.b5df3bcd.chunk.js"
+    "static/js/main.1ce5a384.chunk.js"
   ]
 }
