@@ -1,0 +1,13 @@
+.type{
+    
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: capitalize;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 80%;
+    background-image: url("../../assets/images/decor.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}

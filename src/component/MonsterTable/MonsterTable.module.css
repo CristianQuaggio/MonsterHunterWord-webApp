@@ -1,0 +1,29 @@
+#monsterImage img{
+    width: 100%;
+    max-height: 60px;
+}
+.trLayout{
+    width: 100%;
+}
+.species{
+    margin: 0;
+    text-align: center;
+}
+
+.type{
+    text-transform: capitalize;
+    width: 120%;
+    margin-left: -20%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-image: url("../../assets/images/decor_table.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+@media all and (min-width:  764px) {
+    .type {
+        width: 100%;
+        margin-left: 0;
+    }
+  }

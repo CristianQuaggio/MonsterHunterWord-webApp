@@ -1,0 +1,24 @@
+h2{
+    font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 33px;
+
+/* Dark Text */
+
+color: #625733;
+}
+.type{
+    
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: capitalize;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 80%;
+    background-image: url("../../assets/images/decor.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}

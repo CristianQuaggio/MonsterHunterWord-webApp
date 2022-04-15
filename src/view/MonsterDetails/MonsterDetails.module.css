@@ -1,0 +1,116 @@
+.card{
+    border: none!important;
+    margin: 38px;
+    background: url("../../assets/images/lati.png") center top repeat-y;
+    background-size: 100% 30px;
+
+}
+.card::before{
+    content: "";
+    display: block;
+    width: 100%;
+    background: url("../../assets/images/panel_bg-t.png") center bottom no-repeat;
+    background-size: 100% 25px;
+    height: 25px;
+    margin-top: -20px;
+}
+.card::after{
+    content: "";
+    display: block;
+    width: 100%;
+    background: url("../../assets/images/panel_bg-b.png") center top no-repeat;
+    background-size: 100% 33px;
+    height: 33px;
+    margin-bottom: -33px;
+}
+.image{
+    max-width: 165px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.species{
+    text-align: center;
+    font-size: 16px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #99874E;
+}
+.boh{
+    width: 100%;
+}
+.line{
+    padding-top: 20px;
+    border-bottom: solid 1px #99874E ;
+    margin-bottom: 10px;
+}
+.locationBox{
+    padding: 15px;
+    background: rgba(98, 87, 51, 0.2);
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+thead tr{
+    background: rgba(153, 135, 78, 0.5);
+border-radius: 10px 10px 0px 0px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+tbody tr{
+    background: rgba(98, 87, 51, 0.1);
+    border-bottom: solid 1px #99874E;
+    padding-top: 20px;
+padding-bottom: 20px;
+}
+tbody tr:last-child{
+    border-bottom: none;
+    border-radius: 0px 0px 10px 10px;
+}
+.locationBox p{
+    margin-bottom: 0;
+    
+}
+.elem {
+    max-width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+    .type{
+    
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: capitalize;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 80%;
+    background-image: url("../../assets/images/decor.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.option {
+    display: inline-block;
+    width: 146px;
+    padding: 20px 50px;
+    background-image: url("../../assets/images/decor_unselected.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    cursor: pointer;
+}
+.option:first-child{
+    margin-right: -17px;
+}
+p{
+    font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+
+/* Dark Text */
+
+color: #625733;
+}

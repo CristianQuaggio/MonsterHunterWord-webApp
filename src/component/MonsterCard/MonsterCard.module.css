@@ -1,0 +1,47 @@
+.card{
+    border: none!important;
+    margin: 38px;
+    background: url("../../assets/images/lati.png") center top repeat-y;
+    background-size: 100% 30px;
+
+}
+.card::before{
+    content: "";
+    display: block;
+    width: 100%;
+    background: url("../../assets/images/panel_bg-t.png") center bottom no-repeat;
+    background-size: 100% 25px;
+    height: 25px;
+    margin-top: -24px;
+}
+.card::after{
+    content: "";
+    display: block;
+    width: 100%;
+    background: url("../../assets/images/panel_bg-b.png") center top no-repeat;
+    background-size: 100% 33px;
+    height: 33px;
+    margin-bottom: -33px;
+}
+.image{
+    max-width: 120px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.species{
+    font-size: 16px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.type{
+    text-transform: capitalize;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 100%;
+    background-image: url("../../assets/images/decor.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}

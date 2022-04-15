@@ -1,0 +1,79 @@
+.navBar{
+    background-color: #FFFAF5;
+    width: 100%;
+    position: sticky;
+    top:0;
+    z-index: 9;
+}
+#line{
+    border-bottom: solid 1px #99874E ;
+    display: flex;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+.logo{
+    max-height: 80px;
+    margin-right: 30px;
+}
+.brandLogo a:hover{
+    border: none;
+}
+.brandLogo:hover{
+    border: none;
+}
+
+.navItem a{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #625733!important;
+    border-bottom:solid 1px #FFFAF5 ;
+}
+.navItem a:hover{
+    font-weight: 600;
+    border-bottom:solid 1px #99874E;
+
+}
+button{border: none!important;}
+
+
+.navItem{
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    
+}
+.navItem:first-child{
+    margin-top: 40px;
+
+    
+}
+.navItem:last-child{
+    margin-bottom: 0px;
+}
+
+@media screen and (min-width:  768px) {
+    .navItem{
+        margin-right: 40px;
+        padding-right: 40px;
+        border-right: solid 1px #99874E;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        text-align: left;
+        margin-top: 0;
+        
+        
+    }
+    .navItem:first-child{
+        margin-top: 0px;
+        padding-bottom: 0px;
+    
+        
+    }
+    .navItem:last-child{
+        margin-right: 0px;
+        border-right: none;
+    }
+  }

@@ -1,0 +1,44 @@
+img{
+  max-width: 100%;
+}
+a{
+  color: #625733!important;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: none;
+}
+body{
+  background-color: #FFFAF5;
+  font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+}
+h1{
+  font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 33px;
+color: #625733;
+}
+h3{
+  font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 25px;
+color: #625733;
+}
+p{
+  font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+/* Dark Text */
+
+color: #625733;
+}

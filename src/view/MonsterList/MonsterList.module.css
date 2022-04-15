@@ -1,0 +1,26 @@
+.switch {
+    display: flex;
+    margin: 30px 0 50px;
+    justify-content: center;
+}
+#h1MonsterList{
+    margin-top: 40px;
+}
+.option {
+    display: inline-block;
+    width: 146px;
+    padding: 20px 50px;
+    background-image: url("../../assets/images/decor_unselected.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    cursor: pointer;
+}
+.option:first-child{
+    margin-right: -17px;
+}
+
+.option.active{
+    background-image: url("../../assets/images/decor_selected.svg");
+    color: #FFFAF5;
+}
