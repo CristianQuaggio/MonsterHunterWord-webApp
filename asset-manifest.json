@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MonsterHunterWord-webApp/static/css/main.79a1a354.chunk.css",
-    "main.js": "/MonsterHunterWord-webApp/static/js/main.513b8dc6.chunk.js",
-    "main.js.map": "/MonsterHunterWord-webApp/static/js/main.513b8dc6.chunk.js.map",
+    "main.js": "/MonsterHunterWord-webApp/static/js/main.53392e9c.chunk.js",
+    "main.js.map": "/MonsterHunterWord-webApp/static/js/main.53392e9c.chunk.js.map",
     "runtime-main.js": "/MonsterHunterWord-webApp/static/js/runtime-main.0c935eaf.js",
     "runtime-main.js.map": "/MonsterHunterWord-webApp/static/js/runtime-main.0c935eaf.js.map",
     "static/css/2.0a9ec390.chunk.css": "/MonsterHunterWord-webApp/static/css/2.0a9ec390.chunk.css",
@@ -35,6 +35,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.58f8b513.chunk.js",
     "static/css/main.79a1a354.chunk.css",
-    "static/js/main.513b8dc6.chunk.js"
+    "static/js/main.53392e9c.chunk.js"
   ]
 }
