@@ -1,26 +1,28 @@
 {
   "files": {
     "main.css": "/MonsterHunterWord-webApp/static/css/main.79a1a354.chunk.css",
-    "main.js": "/MonsterHunterWord-webApp/static/js/main.419529c2.chunk.js",
-    "main.js.map": "/MonsterHunterWord-webApp/static/js/main.419529c2.chunk.js.map",
-    "runtime-main.js": "/MonsterHunterWord-webApp/static/js/runtime-main.7798713b.js",
-    "runtime-main.js.map": "/MonsterHunterWord-webApp/static/js/runtime-main.7798713b.js.map",
+    "main.js": "/MonsterHunterWord-webApp/static/js/main.3f1a10ee.chunk.js",
+    "main.js.map": "/MonsterHunterWord-webApp/static/js/main.3f1a10ee.chunk.js.map",
+    "runtime-main.js": "/MonsterHunterWord-webApp/static/js/runtime-main.0ce93545.js",
+    "runtime-main.js.map": "/MonsterHunterWord-webApp/static/js/runtime-main.0ce93545.js.map",
     "static/css/2.0a9ec390.chunk.css": "/MonsterHunterWord-webApp/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.976e852e.chunk.js": "/MonsterHunterWord-webApp/static/js/2.976e852e.chunk.js",
-    "static/js/2.976e852e.chunk.js.map": "/MonsterHunterWord-webApp/static/js/2.976e852e.chunk.js.map",
-    "static/js/3.92e9176d.chunk.js": "/MonsterHunterWord-webApp/static/js/3.92e9176d.chunk.js",
-    "static/js/3.92e9176d.chunk.js.map": "/MonsterHunterWord-webApp/static/js/3.92e9176d.chunk.js.map",
+    "static/js/2.dbd18cc5.chunk.js": "/MonsterHunterWord-webApp/static/js/2.dbd18cc5.chunk.js",
+    "static/js/2.dbd18cc5.chunk.js.map": "/MonsterHunterWord-webApp/static/js/2.dbd18cc5.chunk.js.map",
+    "static/js/3.3ee92e6f.chunk.js": "/MonsterHunterWord-webApp/static/js/3.3ee92e6f.chunk.js",
+    "static/js/3.3ee92e6f.chunk.js.map": "/MonsterHunterWord-webApp/static/js/3.3ee92e6f.chunk.js.map",
     "index.html": "/MonsterHunterWord-webApp/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/MonsterHunterWord-webApp/static/css/2.0a9ec390.chunk.css.map",
     "static/css/main.79a1a354.chunk.css.map": "/MonsterHunterWord-webApp/static/css/main.79a1a354.chunk.css.map",
-    "static/js/2.976e852e.chunk.js.LICENSE.txt": "/MonsterHunterWord-webApp/static/js/2.976e852e.chunk.js.LICENSE.txt",
+    "static/js/2.dbd18cc5.chunk.js.LICENSE.txt": "/MonsterHunterWord-webApp/static/js/2.dbd18cc5.chunk.js.LICENSE.txt",
     "static/media/1_star.svg": "/MonsterHunterWord-webApp/static/media/1_star.dbc300dc.svg",
     "static/media/2_star.svg": "/MonsterHunterWord-webApp/static/media/2_star.9c1938a3.svg",
     "static/media/3_star.svg": "/MonsterHunterWord-webApp/static/media/3_star.5df5d138.svg",
     "static/media/Blastblight.png": "/MonsterHunterWord-webApp/static/media/Blastblight.e7ffb077.png",
     "static/media/Bleeding.png": "/MonsterHunterWord-webApp/static/media/Bleeding.0b0c0bbb.png",
     "static/media/Effluvial Buildup.png": "/MonsterHunterWord-webApp/static/media/Effluvial Buildup.461ed960.png",
+    "static/media/Paralysis.png": "/MonsterHunterWord-webApp/static/media/Paralysis.0799eabb.png",
     "static/media/Wind Pressure.png": "/MonsterHunterWord-webApp/static/media/Wind Pressure.e11602b2.png",
+    "static/media/blast.png": "/MonsterHunterWord-webApp/static/media/blast.e7ffb077.png",
     "static/media/Info.module.css": "/MonsterHunterWord-webApp/static/media/decor.71549307.svg",
     "static/media/MonsterList.module.css": "/MonsterHunterWord-webApp/static/media/decor_unselected.02913dfc.svg",
     "static/media/MonsterTable.module.css": "/MonsterHunterWord-webApp/static/media/decor_table.cb49311d.svg",
@@ -32,10 +34,10 @@
     "static/media/paralysis.png": "/MonsterHunterWord-webApp/static/media/paralysis.0799eabb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7798713b.js",
+    "static/js/runtime-main.0ce93545.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.976e852e.chunk.js",
+    "static/js/2.dbd18cc5.chunk.js",
     "static/css/main.79a1a354.chunk.css",
-    "static/js/main.419529c2.chunk.js"
+    "static/js/main.3f1a10ee.chunk.js"
   ]
 }
